@@ -1,0 +1,68 @@
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\appsettings.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.exe
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.deps.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.runtimeconfig.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.pdb
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.csproj.AssemblyReference.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.AssemblyInfoInputs.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.AssemblyInfo.cs
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.csproj.CoreCompileInputs.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.GI.GestorInventarios.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GI.GestorInventarios.API.props
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GI.GestorInventarios.API.props
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GI.GestorInventarios.API.props
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\scopedcss\bundle\GI.GestorInventarios.API.styles.css
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.Gesto.C1AADB71.Up2Date
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\refint\GI.GestorInventarios.API.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.pdb
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.genruntimeconfig.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\ref\GI.GestorInventarios.API.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\appsettings.Development.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\appsettings.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.exe
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.deps.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.runtimeconfig.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\GI.GestorInventarios.API.pdb
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.csproj.AssemblyReference.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.AssemblyInfoInputs.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.AssemblyInfo.cs
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.csproj.CoreCompileInputs.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.MvcApplicationPartsAssemblyInfo.cs
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.MvcApplicationPartsAssemblyInfo.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.GI.GestorInventarios.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GI.GestorInventarios.API.props
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GI.GestorInventarios.API.props
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GI.GestorInventarios.API.props
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\scopedcss\bundle\GI.GestorInventarios.API.styles.css
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.Gesto.C1AADB71.Up2Date
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\refint\GI.GestorInventarios.API.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.pdb
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\GI.GestorInventarios.API.genruntimeconfig.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\obj\Debug\net8.0\ref\GI.GestorInventarios.API.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
