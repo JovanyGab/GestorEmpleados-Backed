@@ -1,0 +1,6 @@
+@GI.GestorInventarios.API_HostAddress = http://localhost:5208
+
+GET {{GI.GestorInventarios.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

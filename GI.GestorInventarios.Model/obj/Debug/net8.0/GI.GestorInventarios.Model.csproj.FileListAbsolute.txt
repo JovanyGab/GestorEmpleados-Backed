@@ -1,0 +1,22 @@
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.deps.json
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.pdb
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.AssemblyInfoInputs.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.AssemblyInfo.cs
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.csproj.CoreCompileInputs.cache
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\refint\GI.GestorInventarios.Model.dll
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.pdb
+C:\Users\DANY\Desktop\GI.BACK\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\ref\GI.GestorInventarios.Model.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.deps.json
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\bin\Debug\net8.0\GI.GestorInventarios.Model.pdb
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.AssemblyInfoInputs.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.AssemblyInfo.cs
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.csproj.CoreCompileInputs.cache
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\refint\GI.GestorInventarios.Model.dll
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\GI.GestorInventarios.Model.pdb
+D:\10 CUATRIMESTRE\Aplicaciones web progresivas\GI.GestorInventarios.API\GI.GestorInventarios.API\GI.GestorInventarios.Model\obj\Debug\net8.0\ref\GI.GestorInventarios.Model.dll
